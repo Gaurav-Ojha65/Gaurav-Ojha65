@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gaurav%20Ojha&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=60"/>
+</p>
 
-<!--
-**Gaurav-Ojha65/Gaurav-Ojha65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Gaurav Ojha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Software Engineer • AI/ML Engineer • Backend Developer • Cloud & DevOps
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building intelligent AI systems, scalable backend applications, and cloud-native infrastructure.
+</p>
+
+<p align="center">
+🎓 B.Tech Computer Science Student • 🌍 India • 🚀 Open to Software Engineering, AI/ML, Backend & Cloud Opportunities
+</p>
+
