@@ -1,159 +1,87 @@
 <div align="center">
 
-# 👋 Hi, I'm Gaurav Ojha
+# Gaurav Ojha
 
-### `Software Engineer` · `AI/ML Engineer` · `Backend Developer` · `Cloud & DevOps`
+### CSE Student · Software Engineering · Backend · Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Exploring+AI%2FML+and+LLM+pipelines;Learning+Cloud+%26+DevOps;Turning+ideas+into+working+software" alt="Typing animation" />
+Computer Science student building backend applications, full-stack systems, and cloud infrastructure, with practical AI/ML projects.
 
-<p>
-<a href="#-about-me">About</a> · <a href="#-tech-stack">Tech Stack</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-activity">GitHub</a> · <a href="#-connect">Connect</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Gaurav-Ojha65&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
+**[Portfolio](https://gaurav-ojha-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/gaurav-ojha18/) · [GitHub](https://github.com/Gaurav-Ojha65) · [Email](mailto:gauravojhavaranasi@gmail.com)**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Core Technologies
 
-> I build **backend applications, AI/ML systems, and cloud-native infrastructure** with a focus on practical engineering.
+`Java` · `Python` · `JavaScript` · `React` · `Next.js` · `Node.js/Express` · `FastAPI` · `AWS` · `Terraform` · `Ansible` · `Docker` · `GitHub Actions` · `PostgreSQL` · `MySQL`
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Interested in **Java Backend & Software Engineering**
-- 🤖 Exploring **AI/ML, RAG, LLM pipelines & intelligent applications**
-- ☁️ Learning and building with **AWS, Linux, DevOps & cloud infrastructure**
-- 🧩 Interested in **scalable, maintainable and production-ready systems**
+### AI / ML
 
-<details>
-<summary><b>⚡ What I'm focusing on</b></summary>
-
-`Java` · `Spring Boot` · `REST APIs` · `JPA` · `RAG` · `LLM Pipelines` · `AWS` · `Linux` · `Terraform` · `Ansible` · `CI/CD` · `React`
-
-</details>
+`Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP` · `Fairlearn` · `MLflow`
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### Backend & Languages
-<p><img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,nodejs,express" alt="Backend skills" /></p>
+### 1. Mortgage AI Decision System
 
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind" alt="Frontend skills" /></p>
+ML-driven mortgage risk assessment combining an ensemble modeling path, explainability, fairness auditing, a FastAPI backend, React UI, Docker, Redis, PostgreSQL, monitoring, and CI checks.
 
-### Cloud, DevOps & Databases
-<p><img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,ansible,git,github,postgres,mysql" alt="Cloud and DevOps skills" /></p>
+**Signal:** ML engineering + backend + testing + infrastructure
 
----
+[Repository →](https://github.com/Gaurav-Ojha65/Mortgage_AI)
 
-## 🔥 Featured Projects
+### 2. Highly Available Three-Tier AWS Infrastructure
 
-<table>
-<tr>
-<td width="50%">
+Terraform provisions a multi-AZ VPC, public/private subnets, ALB, EC2, RDS MySQL, NAT Gateways, Bastion Host, and security groups; Ansible configures the private web tier through the bastion.
 
-### ☁️ HA Three-Tier AWS
+**Signal:** AWS networking + Infrastructure as Code + configuration management
 
-Highly available three-tier AWS infrastructure using **Terraform & Ansible**.
+[Repository →](https://github.com/Gaurav-Ojha65/ha-three-tier-aws)
 
-`VPC` `ALB` `EC2` `RDS` `Bastion` `Multi-AZ`
+### 3. CollegeFind
 
-</td>
-<td width="50%">
+Full-stack college discovery platform with Next.js, Node.js/Express, PostgreSQL/Supabase, JWT authentication, comparison, rank prediction, saved colleges, and deployed frontend/backend services.
 
-### 📰 News Aggregator
+**Signal:** Full-stack engineering + REST APIs + database + authentication
 
-Web application that collects and displays news using **NewsAPI**.
+[Repository →](https://github.com/Gaurav-Ojha65/CollegeFind)
 
-`HTML` `CSS` `JavaScript` `NewsAPI`
+### 4. Deadlock Prevention & Recovery Toolkit
 
-</td>
-</tr>
-</table>
+Systems project implementing deadlock detection, Banker's Algorithm, recovery logic, simulation, logging, and visualization.
 
-<details>
-<summary><b>🔍 How I approach projects</b></summary>
+**Signal:** Operating systems + algorithms + implementation
 
-**Understand → Design → Build → Test → Deploy → Improve**
-
-I focus on understanding **why something works**, not just making it work.
-
-</details>
+[Repository →](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Recovery-Toolkit)
 
 ---
 
-## 📊 GitHub Activity
+## Engineering Focus
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Ojha65&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Ojha65&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=Gaurav-Ojha65&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
+**Primary:** Software Engineering / Backend Engineering  
+**Secondary:** Cloud & DevOps  
+**Differentiator:** AI/ML Engineering
 
----
-
-## 🧠 Currently Learning
-
-<details open>
-<summary><b>Backend Engineering</b></summary>
-
-`Spring Core` · `Spring Boot` · `REST APIs` · `JPA/Hibernate` · `Validation` · `Exception Handling` · `System Design`
-
-</details>
-
-<details>
-<summary><b>AI / LLM Engineering</b></summary>
-
-`RAG` · `Embeddings` · `Vector Databases` · `LLM APIs` · `Prompt Engineering` · `LLM Pipelines`
-
-</details>
-
-<details>
-<summary><b>Cloud & DevOps</b></summary>
-
-`Linux` · `AWS` · `Terraform` · `Ansible` · `Docker` · `CI/CD` · `Cloud Networking`
-
-</details>
+I care about making technical claims that can be verified through working code, architecture, tests, and documentation.
 
 ---
 
-## 🎯 Engineering Philosophy
+## Selected Engineering Evidence
 
-```text
-Learn the fundamentals.
-        ↓
-Build it yourself.
-        ↓
-Break it deliberately.
-        ↓
-Understand the failure.
-        ↓
-Build it better.
-```
+- Multi-tier AWS infrastructure with Terraform and Ansible
+- REST APIs, authentication, PostgreSQL, and deployed full-stack applications
+- ML ensemble experimentation, SHAP explainability, fairness auditing, and model testing
+- GitHub Actions CI checks, Docker containerization, and observability components
+- 150+ DSA problems across LeetCode, CodeChef, and TUF
 
 ---
 
-## 📈 Contribution Graph
+## Links
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Ojha65&hide_border=true&theme=github-compact" alt="GitHub contribution activity graph" />
-</div>
+- **Portfolio:** https://gaurav-ojha-portfolio.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/gaurav-ojha18/
+- **GitHub:** https://github.com/Gaurav-Ojha65
+- **Email:** gauravojhavaranasi@gmail.com
 
----
-
-## 🤝 Connect
-
-<div align="center">
-<a href="https://github.com/Gaurav-Ojha65"><img src="https://img.shields.io/badge/GitHub-Gaurav--Ojha65-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</div>
-
-<br>
-
-<div align="center">
-
-### 💡 Build. Break. Learn. Repeat.
-
-</div>
