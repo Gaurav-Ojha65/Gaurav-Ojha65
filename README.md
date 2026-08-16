@@ -4,86 +4,175 @@
 
 # Gaurav Ojha
 
-### CSE Student · Software Engineering · Backend · Cloud
+### Software Engineering · Backend · Cloud & DevOps · AI/ML
 
-Computer Science student building backend applications, full-stack systems, and cloud infrastructure, with practical AI/ML projects.
+**CSE Student building practical software systems, backend APIs, cloud infrastructure, and AI/ML applications.**
 
-**[Portfolio](https://gaurav-ojha-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/gaurav-ojha18/) · [GitHub](https://github.com/Gaurav-Ojha65) · [Email](mailto:gauravojhavaranasi@gmail.com)**
+<p>
+<a href="https://gaurav-ojha-portfolio.netlify.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/gaurav-ojha18/">LinkedIn</a> ·
+<a href="https://github.com/Gaurav-Ojha65">GitHub</a> ·
+<a href="mailto:gauravojhavaranasi@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## Core Technologies
+## 👨‍💻 About
 
-`Java` · `Python` · `JavaScript` · `React` · `Next.js` · `Node.js/Express` · `FastAPI` · `AWS` · `Terraform` · `Ansible` · `Docker` · `GitHub Actions` · `PostgreSQL` · `MySQL`
+I enjoy taking a problem from **idea → architecture → implementation → testing → deployment**.
+
+- 🔧 Building with **Java, Spring Boot, REST APIs, Python, React and Node.js**
+- ☁️ Working with **AWS, Linux, Docker, Terraform, Ansible and CI/CD**
+- 🤖 Exploring **ML systems, explainability, RAG and LLM pipelines**
+- 🧠 Strengthening **DSA, backend engineering and system design fundamentals**
+- 📌 Interested in **Software Engineering, Backend and Cloud/DevOps opportunities**
+
+<details>
+<summary><b>🎯 Current engineering focus</b></summary>
+
+```text
+Backend Engineering  →  Spring Boot · REST · JPA · PostgreSQL
+Cloud & DevOps       →  AWS · Linux · Docker · Terraform · Ansible
+AI / ML              →  Python · XGBoost · LightGBM · SHAP · MLflow
+Engineering Practice →  Testing · CI/CD · Observability · Documentation
+```
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,cpp,c,nodejs,express,fastapi" alt="Backend and programming technologies" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies" />
+</p>
+
+### Cloud, DevOps & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,ansible,githubactions,git,postgres,mysql,mongodb" alt="Cloud DevOps and database technologies" />
+</p>
 
 ### AI / ML
 
-`Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP` · `Fairlearn` · `MLflow`
+`Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP` · `Fairlearn` · `MLflow` · `Pandas` · `NumPy`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 1. Mortgage AI Decision System
+### 🏦 Mortgage AI Decision System
 
-ML-driven mortgage risk assessment combining an ensemble modeling path, explainability, fairness auditing, a FastAPI backend, React UI, Docker, Redis, PostgreSQL, monitoring, and CI checks.
+AI-powered mortgage risk assessment system combining ML experimentation with a production-style application stack.
 
-**Signal:** ML engineering + backend + testing + infrastructure
+**Highlights:** ensemble modeling · SHAP explainability · fairness auditing · FastAPI · React · Redis · PostgreSQL · Docker Compose · MLflow · Prometheus · Grafana · GitHub Actions
 
-[Repository →](https://github.com/Gaurav-Ojha65/Mortgage_AI)
+**Engineering signal:** **AI/ML + Backend + Testing + Infrastructure**
 
-### 2. Highly Available Three-Tier AWS Infrastructure
-
-Terraform provisions a multi-AZ VPC, public/private subnets, ALB, EC2, RDS MySQL, NAT Gateways, Bastion Host, and security groups; Ansible configures the private web tier through the bastion.
-
-**Signal:** AWS networking + Infrastructure as Code + configuration management
-
-[Repository →](https://github.com/Gaurav-Ojha65/ha-three-tier-aws)
-
-### 3. CollegeFind
-
-Full-stack college discovery platform with Next.js, Node.js/Express, PostgreSQL/Supabase, JWT authentication, comparison, rank prediction, saved colleges, and deployed frontend/backend services.
-
-**Signal:** Full-stack engineering + REST APIs + database + authentication
-
-[Repository →](https://github.com/Gaurav-Ojha65/CollegeFind)
-
-### 4. Deadlock Prevention & Recovery Toolkit
-
-Systems project implementing deadlock detection, Banker's Algorithm, recovery logic, simulation, logging, and visualization.
-
-**Signal:** Operating systems + algorithms + implementation
-
-[Repository →](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Bankers_Algorithm-Toolkit)
+→ **[View Repository](https://github.com/Gaurav-Ojha65/Mortgage_AI)**
 
 ---
 
-## Engineering Focus
+### ☁️ Highly Available Three-Tier AWS Infrastructure
 
-**Primary:** Software Engineering / Backend Engineering  
-**Secondary:** Cloud & DevOps  
-**Differentiator:** AI/ML Engineering
+Infrastructure-as-Code project deploying a multi-AZ three-tier architecture with isolated public/private networking and automated configuration.
 
-I care about making technical claims that can be verified through working code, architecture, tests, and documentation.
+**Highlights:** VPC · public/private subnets · ALB · EC2 · RDS MySQL · NAT Gateways · Bastion Host · Security Groups · Terraform · Ansible
 
----
+**Engineering signal:** **AWS + Networking + IaC + DevOps**
 
-## Selected Engineering Evidence
-
-- Multi-tier AWS infrastructure with Terraform and Ansible
-- REST APIs, authentication, PostgreSQL, and deployed full-stack applications
-- ML ensemble experimentation, SHAP explainability, fairness auditing, and model testing
-- GitHub Actions CI checks, Docker containerization, and observability components
-- 150+ DSA problems across LeetCode, CodeChef, and TUF
+→ **[View Repository](https://github.com/Gaurav-Ojha65/ha-three-tier-aws)**
 
 ---
 
-## Links
+### 🎓 CollegeFind
 
-- **Portfolio:** https://gaurav-ojha-portfolio.netlify.app
-- **LinkedIn:** https://www.linkedin.com/in/gaurav-ojha18/
-- **GitHub:** https://github.com/Gaurav-Ojha65
-- **Email:** gauravojhavaranasi@gmail.com
+Full-stack college discovery platform with search, comparison, authentication, saved colleges and rank-prediction features.
 
+**Highlights:** Next.js · Node.js/Express · PostgreSQL/Supabase · JWT · REST APIs · deployed frontend/backend
+
+**Engineering signal:** **Full-Stack + Backend + Database + Authentication**
+
+→ **[View Repository](https://github.com/Gaurav-Ojha65/CollegeFind)**
+
+---
+
+### ⚙️ Deadlock Prevention & Recovery Toolkit
+
+Interactive systems project implementing deadlock detection, Banker's Algorithm, recovery logic, simulation and visualization.
+
+**Highlights:** Operating Systems · algorithms · simulation · logging · visualization
+
+**Engineering signal:** **CS Fundamentals + Algorithms + Implementation**
+
+→ **[View Repository](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Bankers_Algorithm-Toolkit)**
+
+---
+
+## 📊 Engineering Snapshot
+
+<div align="center">
+
+| Focus | Evidence |
+|:---|:---|
+| 💻 Software Engineering | Backend APIs · Full-stack applications · Testing |
+| ☁️ Cloud & DevOps | AWS · Terraform · Ansible · Docker · CI/CD |
+| 🤖 AI/ML | Ensemble models · Explainability · Fairness · MLOps |
+| 🧠 DSA | 150+ problems across LeetCode, CodeChef and TUF |
+
+</div>
+
+---
+
+## 🧩 How I Build
+
+```text
+Understand the problem
+        ↓
+Design the architecture
+        ↓
+Build the smallest working version
+        ↓
+Test and measure
+        ↓
+Containerize / automate
+        ↓
+Document and improve
+```
+
+> I prefer **working, explainable engineering over buzzword-heavy projects.**
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Ojha65&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Ojha65&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top programming languages" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in Software Engineering · Backend · Cloud/DevOps · AI/ML**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-ojha18/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome)](https://gaurav-ojha-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Gaurav-Ojha65)
+
+</div>
