@@ -142,17 +142,6 @@ Interactive systems project implementing deadlock detection, Banker's Algorithm,
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Ojha65&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Ojha65&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top programming languages" />
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
