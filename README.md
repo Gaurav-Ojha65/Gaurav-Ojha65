@@ -56,7 +56,7 @@ Systems project implementing deadlock detection, Banker's Algorithm, recovery lo
 
 **Signal:** Operating systems + algorithms + implementation
 
-[Repository →](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Recovery-Toolkit)
+[Repository →](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Bankers_Algorithm-Toolkit)
 
 ---
 
