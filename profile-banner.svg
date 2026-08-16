@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurav Ojha — Software Engineering, Backend, Cloud and AI/ML</title>
+  <desc id="desc">Professional dark technology banner featuring backend engineering, cloud infrastructure, DevOps and AI/ML.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b14"/>
+      <stop offset="0.55" stop-color="#071525"/>
+      <stop offset="1" stop-color="#02060c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a7fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ccff"/>
+      <stop offset="1" stop-color="#1a7fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <g opacity="0.13" stroke="#3aa7ff" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M100 0V300M220 0V300M340 0V300M460 0V300M580 0V300M700 0V300M820 0V300M940 0V300M1060 0V300"/>
+  </g>
+  <g opacity="0.55" fill="none" stroke="#1677d2" stroke-width="1.5">
+    <path d="M770 235 L850 155 L930 205 L1010 105 L1135 165"/>
+    <path d="M770 235 L930 205 L1010 105"/>
+    <path d="M850 155 L1010 105 L1135 165"/>
+  </g>
+  <g fill="#00ccff" filter="url(#glow)">
+    <circle cx="770" cy="235" r="4"/><circle cx="850" cy="155" r="4"/><circle cx="930" cy="205" r="4"/><circle cx="1010" cy="105" r="4"/><circle cx="1135" cy="165" r="4"/>
+  </g>
+  <g transform="translate(820 45)" fill="none" stroke="#2b8cff" stroke-width="2" opacity="0.8">
+    <rect x="0" y="0" width="72" height="52" rx="6"/><rect x="88" y="28" width="72" height="52" rx="6"/><rect x="176" y="-8" width="72" height="52" rx="6"/>
+    <path d="M36 52V75H124V80M124 80V52M212 44V65H124"/>
+  </g>
+  <g transform="translate(55 58)">
+    <text x="0" y="0" fill="#00ccff" font-family="monospace" font-size="13" letter-spacing="4">SOFTWARE ENGINEERING • BACKEND • CLOUD</text>
+    <text x="0" y="62" fill="#f1f7ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Building scalable systems.</text>
+    <text x="0" y="108" fill="#f1f7ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Solving real-world problems.</text>
+    <rect x="0" y="137" width="510" height="2" fill="url(#line)"/>
+    <text x="0" y="176" fill="#8fb9d9" font-family="monospace" font-size="15">Java  •  Spring Boot  •  AWS  •  Terraform  •  AI/ML</text>
+    <text x="0" y="211" fill="#5f88aa" font-family="monospace" font-size="12">THINK  →  BUILD  →  TEST  →  DEPLOY</text>
+  </g>
+  <g transform="translate(1035 238)">
+    <rect x="0" y="0" width="105" height="30" rx="15" fill="#0b1c30" stroke="#1d5f9e"/>
+    <text x="52.5" y="20" text-anchor="middle" fill="#71c8ff" font-family="monospace" font-size="10" letter-spacing="1">GITHUB</text>
+  </g>
+</svg>
