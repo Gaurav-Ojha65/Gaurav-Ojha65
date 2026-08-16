@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./profile-banner.svg" alt="Gaurav Ojha — Software Engineering, Backend, Cloud and AI/ML" width="100%" />
+
 # Gaurav Ojha
 
 ### CSE Student · Software Engineering · Backend · Cloud
