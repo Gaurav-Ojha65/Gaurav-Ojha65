@@ -142,6 +142,22 @@ Interactive systems project implementing deadlock detection, Banker's Algorithm,
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Gaurav-Ojha65">
+<img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+</a>
+
+<br><br>
+
+<sub>My live contribution graph and recent activity are available directly on my GitHub profile below this README.</sub>
+
+</div>
+
+---
+
 ## 🤝 Connect
 
 <div align="center">
