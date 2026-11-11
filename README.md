@@ -154,20 +154,19 @@ A deployed application for searching and comparing colleges using fees, placemen
 
 ## GitHub activity
 
-A live snapshot of my public GitHub profile. The language card reflects code detected in public repositories; it should not be read as a measure of proficiency.
+I keep this section lightweight and reliable rather than depending on third-party statistics images that may stop loading.
 
 <div align="center">
 
-<a href="https://github.com/Gaurav-Ojha65">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Ojha65&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/Gaurav-Ojha65?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Ojha65&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Most used languages in public repositories" />
-</a>
+<a href="https://github.com/Gaurav-Ojha65?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" /></a>
+<a href="https://github.com/Gaurav-Ojha65"><img src="https://img.shields.io/badge/View-GitHub%20Profile-171717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" /></a>
+<a href="https://github.com/Gaurav-Ojha65?tab=overview"><img src="https://img.shields.io/badge/See-Contribution%20Activity-238636?style=for-the-badge&logo=github&logoColor=white" alt="See contribution activity" /></a>
 
 </div>
 
-[View repositories](https://github.com/Gaurav-Ojha65?tab=repositories) · [View contribution activity](https://github.com/Gaurav-Ojha65)
+**Explore by project:** [CivicResolve AI](https://github.com/Gaurav-Ojha65/CivicResolveAI) · [ASL Recognition](https://github.com/Gaurav-Ojha65/ASL-Gesture-Recognition) · [Mortgage AI](https://github.com/Gaurav-Ojha65/AI_Mortgage_Decision_System) · [CollegeFind](https://github.com/Gaurav-Ojha65/CollegeFind) · [AWS Infrastructure](https://github.com/Gaurav-Ojha65/ha-three-tier-aws)
+
+GitHub's native contribution calendar and repository insights are available directly on my [profile](https://github.com/Gaurav-Ojha65).
 
 ---
 
