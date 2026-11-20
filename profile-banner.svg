@@ -1,46 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Gaurav Ojha — Software Engineering, Backend, Cloud and AI/ML</title>
-  <desc id="desc">Professional dark technology banner featuring backend engineering, cloud infrastructure, DevOps and AI/ML.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Gaurav Ojha | Backend, Full-Stack and Applied AI Engineering</title>
+  <desc id="description">Dark navy portfolio banner with Gaurav Ojha's name, technical focus, and an illustration of a well-structured software system.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050b14"/>
-      <stop offset="0.55" stop-color="#071525"/>
-      <stop offset="1" stop-color="#02060c"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080f1e"/>
+      <stop offset="0.58" stop-color="#0d1d32"/>
+      <stop offset="1" stop-color="#10192b"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1a7fff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00ccff"/>
-      <stop offset="1" stop-color="#1a7fff" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4ae0cf"/>
+      <stop offset="1" stop-color="#57a5ff"/>
     </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a5c4e2" stroke-width="0.7" opacity="0.09"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#01070e" flood-opacity="0.35"/>
+    </filter>
   </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <g opacity="0.13" stroke="#3aa7ff" stroke-width="1">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
-    <path d="M100 0V300M220 0V300M340 0V300M460 0V300M580 0V300M700 0V300M820 0V300M940 0V300M1060 0V300"/>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="1115" cy="24" r="178" fill="#1b436b" opacity="0.24"/>
+  <circle cx="1080" cy="280" r="155" fill="#154f4d" opacity="0.17"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="56" y="42" width="237" height="28" rx="14" fill="#142d42" stroke="#2a5566"/>
+    <circle cx="73" cy="56" r="4" fill="#4ae0cf"/>
+    <text x="86" y="60" fill="#b9e1e7" font-size="12" font-weight="700" letter-spacing="1.6">ENGINEERING PORTFOLIO</text>
+    <text x="52" y="151" fill="#f7fbff" font-size="72" font-weight="700" letter-spacing="-2.6">Gaurav Ojha</text>
+    <rect x="56" y="177" width="58" height="4" rx="2" fill="url(#accent)"/>
+    <text x="56" y="213" fill="#d8e7f3" font-size="24" font-weight="600">Backend &amp; Full-Stack Engineer</text>
+    <text x="56" y="246" fill="#9bb5cc" font-size="17">Cloud infrastructure  ·  Applied AI/ML  ·  Product-minded systems</text>
+    <text x="56" y="291" fill="#64d4ce" font-size="12" font-weight="700" letter-spacing="2">DESIGN  /  BUILD  /  TEST  /  IMPROVE</text>
   </g>
-  <g opacity="0.55" fill="none" stroke="#1677d2" stroke-width="1.5">
-    <path d="M770 235 L850 155 L930 205 L1010 105 L1135 165"/>
-    <path d="M770 235 L930 205 L1010 105"/>
-    <path d="M850 155 L1010 105 L1135 165"/>
-  </g>
-  <g fill="#00ccff" filter="url(#glow)">
-    <circle cx="770" cy="235" r="4"/><circle cx="850" cy="155" r="4"/><circle cx="930" cy="205" r="4"/><circle cx="1010" cy="105" r="4"/><circle cx="1135" cy="165" r="4"/>
-  </g>
-  <g transform="translate(820 45)" fill="none" stroke="#2b8cff" stroke-width="2" opacity="0.8">
-    <rect x="0" y="0" width="72" height="52" rx="6"/><rect x="88" y="28" width="72" height="52" rx="6"/><rect x="176" y="-8" width="72" height="52" rx="6"/>
-    <path d="M36 52V75H124V80M124 80V52M212 44V65H124"/>
-  </g>
-  <g transform="translate(55 58)">
-    <text x="0" y="0" fill="#00ccff" font-family="monospace" font-size="13" letter-spacing="4">SOFTWARE ENGINEERING • BACKEND • CLOUD</text>
-    <text x="0" y="62" fill="#f1f7ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Building scalable systems.</text>
-    <text x="0" y="108" fill="#f1f7ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Solving real-world problems.</text>
-    <rect x="0" y="137" width="510" height="2" fill="url(#line)"/>
-    <text x="0" y="176" fill="#8fb9d9" font-family="monospace" font-size="15">Java  •  Spring Boot  •  AWS  •  Terraform  •  AI/ML</text>
-    <text x="0" y="211" fill="#5f88aa" font-family="monospace" font-size="12">THINK  →  BUILD  →  TEST  →  DEPLOY</text>
-  </g>
-  <g transform="translate(1035 238)">
-    <rect x="0" y="0" width="105" height="30" rx="15" fill="#0b1c30" stroke="#1d5f9e"/>
-    <text x="52.5" y="20" text-anchor="middle" fill="#71c8ff" font-family="monospace" font-size="10" letter-spacing="1">GITHUB</text>
+  <g filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="782" y="58" width="353" height="208" rx="15" fill="#0a1626" stroke="#315067" stroke-width="1.3"/>
+    <path d="M782 98H1135" stroke="#29445c"/>
+    <circle cx="805" cy="78" r="5" fill="#59cbbf"/>
+    <circle cx="824" cy="78" r="5" fill="#428cc5"/>
+    <circle cx="843" cy="78" r="5" fill="#324d67"/>
+    <text x="1109" y="82" fill="#7e9bb6" font-size="11" text-anchor="end" letter-spacing="1">SYSTEM OVERVIEW</text>
+    <rect x="805" y="126" width="84" height="68" rx="8" fill="#153046" stroke="#3e7792"/>
+    <rect x="914" y="126" width="84" height="68" rx="8" fill="#153046" stroke="#3e7792"/>
+    <rect x="1023" y="126" width="88" height="68" rx="8" fill="#153046" stroke="#3e7792"/>
+    <g fill="#f2f8fe" font-size="13" text-anchor="middle" font-weight="700">
+      <text x="847" y="155">Client</text>
+      <text x="956" y="155">API</text>
+      <text x="1067" y="155">Data / ML</text>
+    </g>
+    <g fill="#96b7cd" font-size="10" text-anchor="middle">
+      <text x="847" y="176">React</text>
+      <text x="956" y="176">Spring Boot</text>
+      <text x="1067" y="176">Postgres</text>
+    </g>
+    <g stroke="#57d8ce" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M889 160H911"/><path d="M905 155L911 160L905 165"/>
+      <path d="M998 160H1020"/><path d="M1014 155L1020 160L1014 165"/>
+    </g>
+    <path d="M807 220H1110" stroke="#2c4b60" stroke-width="1"/>
+    <circle cx="817" cy="239" r="4.5" fill="#4ae0cf"/>
+    <text x="832" y="243" fill="#96bad1" font-size="12">Secure by design. Explainable by default.</text>
   </g>
 </svg>
