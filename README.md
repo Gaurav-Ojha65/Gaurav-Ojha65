@@ -26,7 +26,7 @@ My projects combine **Java / Spring Boot**, **Python / FastAPI**, and modern fro
 - Trained an **eight-category complaint classifier** reporting **0.7453 Macro-F1** and **83.80% validation accuracy** on project evaluation data.
 - Implemented authentication and access controls, BCrypt password hashing, audit trails, and JPA optimistic locking with HTTP 409 conflict handling.
 
-[Architecture](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/ARCHITECTURE.md) · [Security design](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/SECURITY.md)
+[Architecture](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/ARCHITECTURE.md) · [Security design](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/SECURITY.md) · [Engineering case study](case-studies/civicresolve-ai.md)
 
 ### [Real-Time ASL Gesture Recognition](https://github.com/Gaurav-Ojha65/ASL-Gesture-Recognition)
 **Computer vision to text and speech** · PyTorch, MediaPipe, FastAPI, WebSockets, React
