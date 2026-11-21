@@ -118,7 +118,7 @@ A browser and desktop fingerspelling system that processes webcam frames into la
 | Dimension | Implementation |
 | :--- | :--- |
 | **Stack** | Python, PyTorch, MediaPipe, OpenCV, FastAPI, WebSockets, React, TypeScript |
-| **Scale / scope** | Browser and desktop workflows; MediaPipe 21-point hand tracking; a **18,524-parameter** PyTorch model recognizing **28 gestures**, including dynamic J/Z |
+| **Scale / scope** | Browser and desktop workflows; MediaPipe 21-point hand tracking; an **18,524-parameter** PyTorch model recognizing **28 gestures**, including dynamic J/Z |
 | **Performance** | **0.155 ms** isolated local CPU model forward pass reported by the project; not a claim about end-to-end response latency |
 | **Security** | Independent per-session inference and temporal state on the WebSocket service |
 | **Impact** | Explores more accessible human-computer interaction through real-time fingerspelling and speech |
