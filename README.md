@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20LPU-4338CA?style=flat-square&labelColor=111026" alt="B.Tech Computer Science at LPU" />
   <img src="https://img.shields.io/badge/Minor-AI%20%26%20ML-6D28D9?style=flat-square&labelColor=111026" alt="AI and ML minor" />
   <img src="https://img.shields.io/badge/Location-Punjab%2C%20India-7C3AED?style=flat-square&labelColor=111026" alt="Punjab, India" />
+  <img src="https://img.shields.io/badge/CGPA-8.47%20%2F%2010-A78BFA?style=flat-square&labelColor=111026" alt="CGPA 8.47 out of 10" />
 </p>
 
 <p>
@@ -33,13 +34,15 @@
 
 ## About
 
-I'm **Gaurav Ojha**, a **Computer Science and Engineering undergraduate at Lovely Professional University**, pursuing an AI/ML minor. I build software across the full engineering stack: API design, secure backend services, usable web interfaces, cloud infrastructure, and applied machine learning.
+I'm **Gaurav Ojha**, a **Computer Science and Engineering undergraduate at Lovely Professional University** (CGPA **8.47/10**), pursuing an AI/ML minor. I build software across the full engineering stack: API design, secure backend services, usable web interfaces, cloud infrastructure, and applied machine learning.
 
 My work favors **tested implementations, clear architecture, honest performance reporting, and human-centered product decisions**. I am interested in how systems behave outside the happy path: concurrency, data protection, failure handling, model limitations, and deployment.
 
 - **Engineering:** Java / Spring Boot, TypeScript / React, Python / FastAPI, SQL and relational design
 - **Cloud:** AWS, Terraform, Ansible, Docker and Linux
 - **Applied AI:** explainable NLP, computer vision, model evaluation and responsible decision support
+- **Problem solving:** 250+ DSA problems solved across coding platforms (as of September 2026)
+- **Recognition:** Adobe University Hackathon Finalist (August 2026); Top 5 Performer, CipherSchools Coding Contest (June 2026)
 - **Open to:** software engineering internships, backend/full-stack roles, cloud engineering opportunities, and meaningful collaboration
 
 ---
@@ -59,13 +62,13 @@ My work favors **tested implementations, clear architecture, honest performance 
 
 **Backend & Databases**
 
-<p><img alt="Spring FastAPI Node.js Express PostgreSQL MySQL" src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgres,mysql&theme=dark" /></p>
+<p><img alt="Spring FastAPI Flask Node.js Express PostgreSQL MySQL" src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express,postgres,mysql&theme=dark" /></p>
 
 **Cloud, DevOps & Tooling**
 
 <p><img alt="AWS Docker Terraform Ansible Linux Git GitHub Actions" src="https://skillicons.dev/icons?i=aws,docker,terraform,ansible,linux,git,githubactions&theme=dark" /></p>
 
-**ML & Data:** PyTorch · scikit-learn · MediaPipe · XGBoost · LightGBM · SHAP · Pandas
+**ML & Data:** PyTorch · scikit-learn · MediaPipe · XGBoost · LightGBM · SHAP · Pandas · NumPy · OpenCV
 
 ---
 
@@ -73,7 +76,7 @@ My work favors **tested implementations, clear architecture, honest performance 
 
 | Domain | Hands-on scope | Engineering evidence |
 | :--- | :--- | :--- |
-| **Explainable NLP** | Applied | TF-IDF + Logistic Regression triage, model comparisons and explanation surfaces in [CivicResolve AI](https://github.com/Gaurav-Ojha65/CivicResolveAI) |
+| **Explainable NLP** | Applied | TF-IDF + Logistic Regression triage in [CivicResolve AI](https://github.com/Gaurav-Ojha65/CivicResolveAI); reported **0.7453 Macro-F1** and **83.80% validation accuracy** on eight-class classification |
 | **Computer Vision** | Applied | MediaPipe landmarks, PyTorch classification and temporal stabilization in [ASL Gesture Recognition](https://github.com/Gaurav-Ojha65/ASL-Gesture-Recognition) |
 | **Tabular ML** | Applied / experimental | XGBoost, LightGBM, ensemble scoring and SHAP analysis in [AI Mortgage Decision System](https://github.com/Gaurav-Ojha65/AI_Mortgage_Decision_System) |
 | **Model Evaluation** | Project-based | Benchmarks, validation data, test coverage and documented deployment limitations |
@@ -96,7 +99,7 @@ An end-to-end financial grievance platform with citizen intake, transparent stat
 | :--- | :--- |
 | **Stack** | React, TypeScript, Spring Boot, FastAPI, PostgreSQL, scikit-learn |
 | **Scale / scope** | Citizen and reviewer journeys; eight financial complaint categories; multi-service architecture |
-| **Performance** | TF-IDF / Logistic Regression production-model approach with separately documented model evaluation; no unverified traffic or latency claims |
+| **Performance** | Eight-class NLP classifier reporting **0.7453 Macro-F1** and **83.80% validation accuracy** on the project's validation data; not a live-system throughput benchmark |
 | **Security** | One-time tracking secret hashes, reviewer auth, least-privilege database roles, rate limiting, optimistic locking and PII handling |
 | **Impact** | More transparent, auditable grievance routing with human override and decision explanations |
 | **Repository** | [Source](https://github.com/Gaurav-Ojha65/CivicResolveAI) · [Architecture](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/Gaurav-Ojha65/CivicResolveAI/blob/main/docs/SECURITY.md) |
@@ -115,7 +118,7 @@ A browser and desktop fingerspelling system that processes webcam frames into la
 | Dimension | Implementation |
 | :--- | :--- |
 | **Stack** | Python, PyTorch, MediaPipe, OpenCV, FastAPI, WebSockets, React, TypeScript |
-| **Scale / scope** | Browser studio and native desktop flow; static letters and dynamic J/Z gestures |
+| **Scale / scope** | Browser and desktop workflows; MediaPipe 21-point hand tracking; a **18,524-parameter** PyTorch model recognizing **28 gestures**, including dynamic J/Z |
 | **Performance** | **0.155 ms** isolated local CPU model forward pass reported by the project; not a claim about end-to-end response latency |
 | **Security** | Independent per-session inference and temporal state on the WebSocket service |
 | **Impact** | Explores more accessible human-computer interaction through real-time fingerspelling and speech |
@@ -209,6 +212,14 @@ A hackathon-stage prototype for land-record extraction, deterministic validation
 
 ## Experience
 
+**Cloud & DevOps Training · CipherSchools**  
+`June – July 2026` · Highly Available Three-Tier AWS Infrastructure
+
+- Practiced infrastructure provisioning with **Terraform** across VPC, ALB, NAT Gateway, EC2, and RDS MySQL.
+- Automated **Nginx configuration, application deployment, and database connectivity** using Ansible.
+- Designed private application tiers with restricted security groups and bastion-host access.
+- **Focus:** AWS · Terraform · Ansible · Infrastructure as Code · Linux
+
 **Independent Software Engineering · Project Development**  
 `2025 – Present` · Backend, full-stack, cloud, and applied AI systems
 
@@ -230,10 +241,11 @@ A hackathon-stage prototype for land-record extraction, deterministic validation
 
 | Recognition | Details |
 | :--- | :--- |
-| **Tech Synergy · Top Performer** | Recognized among five top performers in a CipherSchools coding contest |
-| **Consistent Problem Solving** | 200+ coding problems referenced in the personal portfolio across online coding platforms |
+| **Adobe University Hackathon · Finalist** | Finalist recognized for an innovative technology solution (August 2026) |
+| **CipherSchools Coding Contest · Top 5** | Recognized as a Top 5 Performer (June 2026) |
+| **DSA Practice · 250+ Problems** | Solved 250+ data structures and algorithms problems across coding platforms (September 2026) |
 | **Tested Engineering Work** | ASL project documents 183 backend and 26 frontend passing tests |
-| **Cloud & Systems Portfolio** | Published AWS infrastructure automation alongside backend, web, and applied ML projects |
+| **Cloud & Systems Portfolio** | Implemented and documented AWS infrastructure automation with Terraform and Ansible |
 
 </div>
 
@@ -241,9 +253,9 @@ A hackathon-stage prototype for land-record extraction, deterministic validation
 
 ## Certifications
 
-**AWS**
+**Oracle**
 
-<a href="https://gaurav-ojha-portfolio.netlify.app/#certifications"><img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<img alt="Oracle Agentic AI certification September 2026" src="https://img.shields.io/badge/Oracle-Agentic%20AI%20%7C%20Sep%202026-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
 
 **Infosys Springboard**
 
