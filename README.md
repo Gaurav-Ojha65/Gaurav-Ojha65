@@ -57,6 +57,8 @@ My projects combine **Java / Spring Boot**, **Python / FastAPI**, and modern fro
 
 ### Additional work
 
+- **MetroTrace (private project; repository currently named `SIH_NEW`):** AI-assisted Legal Metrology inspection platform for packaged commodities, including field inspection, supervisory analytics, evidence analysis, and compliance workflows. The repository remains private.
+- **[Deadlock Prevention & OS Simulation Toolkit](https://github.com/Gaurav-Ojha65/Deadlock-Prevention-Bankers_Algorithm-Toolkit):** Interactive React/Vite visualizations of Banker's Algorithm, wait-for graph cycle detection, CPU scheduling (including Gantt charts), and FIFO/LRU/Optimal page replacement.
 - **[CollegeFind](https://github.com/Gaurav-Ojha65/CollegeFind):** Full-stack college discovery and comparison with Next.js, Express, PostgreSQL, authentication, and historical cutoff insights.
 - **[BhoomiLens](https://github.com/Gaurav-Ojha65/bhoomilens):** Hackathon-stage land-record consistency-checking prototype with deterministic validation and human review. Not an official document-authentication system.
 
